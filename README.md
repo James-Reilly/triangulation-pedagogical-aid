@@ -2,7 +2,7 @@
 
 > Final Project for Computational Geometry
 
-> Forked from my cs project site with assignment code removed.
+Forked from my cs project site with assignment code removed.
 
 ## Build Setup
 
