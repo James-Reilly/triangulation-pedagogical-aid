@@ -15,6 +15,7 @@
         <v-btn
           color="blue-grey"
           class="white--text"
+          href="https://github.com/James-Reilly/triangulation-pedagogical-aid"
         >
           Github 
           <v-icon right dark>code</v-icon>
