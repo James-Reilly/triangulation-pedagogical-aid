@@ -1,6 +1,8 @@
-# csproject-blog
+# Triangulation Pedagogical Aid
 
-> Website to display work for my CS courses
+> Final Project for Computational Geometry
+
+> Forked from my cs project site with assignment code removed.
 
 ## Build Setup
 
